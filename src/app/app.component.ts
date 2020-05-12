@@ -17,7 +17,7 @@ export class AppComponent {
 
     {
       title: "Snowy Moutain",
-      imageUrl: "assets/images/moutain.jpeg",
+      imageUrl: "assets/images/mountain.jpeg",
       username: "snowLover",
       content: "Here's a pic of a snowy moutain",
     },
