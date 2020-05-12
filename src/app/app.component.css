@@ -1,0 +1,7 @@
+/* Selects host element, in this case it is app-root */
+:host {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
